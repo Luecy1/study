@@ -1,0 +1,11 @@
+
+# Auto generated files
+/target
+
+# eclipse
+.classpath
+.project
+/.settings
+
+# vscode
+/.vscode
